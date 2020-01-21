@@ -4,8 +4,8 @@
 //SOURCE: https://leetcode.com/problems/two-sum/
 //LEVEL: EASY
 
-nums = [2,5,5,11];
-target = 10;
+let nums = [2,5,5,11];
+let target = 10;
 
 const twoSum = (nums, target) => {
     for (let i=0; i<nums.length; i++) {
